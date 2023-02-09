@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sergut Tibebu, Web Developer
+- 👋 Hi, I’m Sergut Tibebu, Front-End Web Developer
 - 👀 I’m working at Bitwise Industries as Front-End Developer
 - 🌱 I’m currently learning React
 - 💞️ Ask me about React Native
